@@ -1,0 +1,12 @@
+<addressbook name="Personal">
+	<entry>
+		<firstname>Alice</firstname>
+		<lastname>Applebaum</lastname>
+		<phone>+1-212-555-1434</phone>
+		<address>
+			114 Auburn Street
+			Apt 14
+			Atlanta, GA
+		</address>
+	</entry>
+</addressbook>

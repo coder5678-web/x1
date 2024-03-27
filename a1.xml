@@ -1,0 +1,11 @@
+<addressbook
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="addressbook.xsd">
+<name>Alice Applebaum</name>
+<phone>+1-212-555-1434</phone>
+<address>
+114 Auburn Street
+Apt 14.
+Atlanta, GA
+</address>
+</addressbook>
